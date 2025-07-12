@@ -1,0 +1,87 @@
+2025-07-12 15:17:26.411 | INFO     | __main__:<module>:17 - Texte utilisateur: this good
+
+2025-07-12 15:17:26.411 | INFO     | __main__:<module>:17 - Texte utilisateur: this good
+
+2025-07-12 15:17:26.411 | INFO     | __main__:<module>:17 - Texte utilisateur: this good
+
+2025-07-12 15:17:26.416 | INFO     | __main__:<module>:21 - Résultat API: {'neg': 0.0, 'neu': 0.256, 'pos': 0.744, 'compound': 0.4404}
+2025-07-12 15:17:26.416 | INFO     | __main__:<module>:21 - Résultat API: {'neg': 0.0, 'neu': 0.256, 'pos': 0.744, 'compound': 0.4404}
+2025-07-12 15:17:26.416 | INFO     | __main__:<module>:21 - Résultat API: {'neg': 0.0, 'neu': 0.256, 'pos': 0.744, 'compound': 0.4404}
+2025-07-12 15:17:26.417 | INFO     | __main__:<module>:29 - Résultats affichés: {'neg': 0.0, 'neu': 0.256, 'pos': 0.744, 'compound': 0.4404}
+2025-07-12 15:17:26.417 | INFO     | __main__:<module>:29 - Résultats affichés: {'neg': 0.0, 'neu': 0.256, 'pos': 0.744, 'compound': 0.4404}
+2025-07-12 15:17:26.417 | INFO     | __main__:<module>:29 - Résultats affichés: {'neg': 0.0, 'neu': 0.256, 'pos': 0.744, 'compound': 0.4404}
+2025-07-12 15:17:33.470 | INFO     | __main__:<module>:17 - Texte utilisateur: this is bad
+
+2025-07-12 15:17:33.470 | INFO     | __main__:<module>:17 - Texte utilisateur: this is bad
+
+2025-07-12 15:17:33.470 | INFO     | __main__:<module>:17 - Texte utilisateur: this is bad
+
+2025-07-12 15:17:33.470 | INFO     | __main__:<module>:17 - Texte utilisateur: this is bad
+
+2025-07-12 15:17:33.470 | INFO     | __main__:<module>:17 - Texte utilisateur: this is bad
+
+2025-07-12 15:17:33.476 | INFO     | __main__:<module>:21 - Résultat API: {'neg': 0.636, 'neu': 0.364, 'pos': 0.0, 'compound': -0.5423}
+2025-07-12 15:17:33.476 | INFO     | __main__:<module>:21 - Résultat API: {'neg': 0.636, 'neu': 0.364, 'pos': 0.0, 'compound': -0.5423}
+2025-07-12 15:17:33.476 | INFO     | __main__:<module>:21 - Résultat API: {'neg': 0.636, 'neu': 0.364, 'pos': 0.0, 'compound': -0.5423}
+2025-07-12 15:17:33.476 | INFO     | __main__:<module>:21 - Résultat API: {'neg': 0.636, 'neu': 0.364, 'pos': 0.0, 'compound': -0.5423}
+2025-07-12 15:17:33.476 | INFO     | __main__:<module>:21 - Résultat API: {'neg': 0.636, 'neu': 0.364, 'pos': 0.0, 'compound': -0.5423}
+2025-07-12 15:17:33.477 | INFO     | __main__:<module>:29 - Résultats affichés: {'neg': 0.636, 'neu': 0.364, 'pos': 0.0, 'compound': -0.5423}
+2025-07-12 15:17:33.477 | INFO     | __main__:<module>:29 - Résultats affichés: {'neg': 0.636, 'neu': 0.364, 'pos': 0.0, 'compound': -0.5423}
+2025-07-12 15:17:33.477 | INFO     | __main__:<module>:29 - Résultats affichés: {'neg': 0.636, 'neu': 0.364, 'pos': 0.0, 'compound': -0.5423}
+2025-07-12 15:17:33.477 | INFO     | __main__:<module>:29 - Résultats affichés: {'neg': 0.636, 'neu': 0.364, 'pos': 0.0, 'compound': -0.5423}
+2025-07-12 15:17:33.477 | INFO     | __main__:<module>:29 - Résultats affichés: {'neg': 0.636, 'neu': 0.364, 'pos': 0.0, 'compound': -0.5423}
+2025-07-12 15:17:45.842 | INFO     | __main__:<module>:17 - Texte utilisateur: this is
+
+2025-07-12 15:17:45.842 | INFO     | __main__:<module>:17 - Texte utilisateur: this is
+
+2025-07-12 15:17:45.842 | INFO     | __main__:<module>:17 - Texte utilisateur: this is
+
+2025-07-12 15:17:45.842 | INFO     | __main__:<module>:17 - Texte utilisateur: this is
+
+2025-07-12 15:17:45.842 | INFO     | __main__:<module>:17 - Texte utilisateur: this is
+
+2025-07-12 15:17:45.842 | INFO     | __main__:<module>:17 - Texte utilisateur: this is
+
+2025-07-12 15:17:45.842 | INFO     | __main__:<module>:17 - Texte utilisateur: this is
+
+2025-07-12 15:17:45.845 | INFO     | __main__:<module>:21 - Résultat API: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2025-07-12 15:17:45.845 | INFO     | __main__:<module>:21 - Résultat API: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2025-07-12 15:17:45.845 | INFO     | __main__:<module>:21 - Résultat API: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2025-07-12 15:17:45.845 | INFO     | __main__:<module>:21 - Résultat API: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2025-07-12 15:17:45.845 | INFO     | __main__:<module>:21 - Résultat API: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2025-07-12 15:17:45.845 | INFO     | __main__:<module>:21 - Résultat API: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2025-07-12 15:17:45.845 | INFO     | __main__:<module>:21 - Résultat API: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2025-07-12 15:17:45.847 | INFO     | __main__:<module>:29 - Résultats affichés: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2025-07-12 15:17:45.847 | INFO     | __main__:<module>:29 - Résultats affichés: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2025-07-12 15:17:45.847 | INFO     | __main__:<module>:29 - Résultats affichés: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2025-07-12 15:17:45.847 | INFO     | __main__:<module>:29 - Résultats affichés: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2025-07-12 15:17:45.847 | INFO     | __main__:<module>:29 - Résultats affichés: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2025-07-12 15:17:45.847 | INFO     | __main__:<module>:29 - Résultats affichés: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2025-07-12 15:17:45.847 | INFO     | __main__:<module>:29 - Résultats affichés: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2025-07-12 15:21:29.081 | INFO     | __main__:<module>:17 - Texte utilisateur: hello
+2025-07-12 15:21:29.081 | INFO     | __main__:<module>:17 - Texte utilisateur: hello
+2025-07-12 15:21:29.081 | INFO     | __main__:<module>:17 - Texte utilisateur: hello
+2025-07-12 15:21:29.081 | INFO     | __main__:<module>:17 - Texte utilisateur: hello
+2025-07-12 15:21:29.081 | INFO     | __main__:<module>:17 - Texte utilisateur: hello
+2025-07-12 15:21:29.081 | INFO     | __main__:<module>:17 - Texte utilisateur: hello
+2025-07-12 15:21:29.081 | INFO     | __main__:<module>:17 - Texte utilisateur: hello
+2025-07-12 15:21:29.081 | INFO     | __main__:<module>:17 - Texte utilisateur: hello
+2025-07-12 15:21:29.081 | INFO     | __main__:<module>:17 - Texte utilisateur: hello
+2025-07-12 15:21:29.084 | INFO     | __main__:<module>:21 - Résultat API: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2025-07-12 15:21:29.084 | INFO     | __main__:<module>:21 - Résultat API: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2025-07-12 15:21:29.084 | INFO     | __main__:<module>:21 - Résultat API: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2025-07-12 15:21:29.084 | INFO     | __main__:<module>:21 - Résultat API: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2025-07-12 15:21:29.084 | INFO     | __main__:<module>:21 - Résultat API: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2025-07-12 15:21:29.084 | INFO     | __main__:<module>:21 - Résultat API: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2025-07-12 15:21:29.084 | INFO     | __main__:<module>:21 - Résultat API: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2025-07-12 15:21:29.084 | INFO     | __main__:<module>:21 - Résultat API: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2025-07-12 15:21:29.084 | INFO     | __main__:<module>:21 - Résultat API: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2025-07-12 15:21:29.086 | INFO     | __main__:<module>:29 - Résultats affichés: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2025-07-12 15:21:29.086 | INFO     | __main__:<module>:29 - Résultats affichés: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2025-07-12 15:21:29.086 | INFO     | __main__:<module>:29 - Résultats affichés: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2025-07-12 15:21:29.086 | INFO     | __main__:<module>:29 - Résultats affichés: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2025-07-12 15:21:29.086 | INFO     | __main__:<module>:29 - Résultats affichés: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2025-07-12 15:21:29.086 | INFO     | __main__:<module>:29 - Résultats affichés: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2025-07-12 15:21:29.086 | INFO     | __main__:<module>:29 - Résultats affichés: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2025-07-12 15:21:29.086 | INFO     | __main__:<module>:29 - Résultats affichés: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2025-07-12 15:21:29.086 | INFO     | __main__:<module>:29 - Résultats affichés: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
